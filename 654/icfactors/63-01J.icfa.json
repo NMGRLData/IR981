@@ -24,8 +24,8 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.0010049779022117547,
-        "fit": "Bracketing Interpolate",
+        "error": 0.0033680114057680188,
+        "fit": "Average",
         "references": [
             {
                 "exclude": "ok",
@@ -199,6 +199,6 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0121226423083978
+        "value": 1.007905259649782
     }
 }
